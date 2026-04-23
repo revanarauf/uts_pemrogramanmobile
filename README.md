@@ -25,7 +25,7 @@ Aplikasi Pendaftaran Seminar Mahasiswa berbasis Android yang dibangun menggunaka
 - **Password**: `revana12`
 
 ## 🎥 Video Penjelasan (Link)
-[Klik di sini untuk menonton video penjelasan kode dan UI](https://youtu.be/Sn1ogaT7uBE)
+
 
 ---
 
