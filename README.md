@@ -31,13 +31,13 @@ Aplikasi Pendaftaran Seminar Mahasiswa berbasis Android yang dibangun menggunaka
 
 ## 📸 Tampilan Aplikasi
 Fitur Login
-<img width="250" height="350" alt="LOGIN" src="https://github.com/user-attachments/assets/6c95a12b-36af-4a6e-a27c-bd56b9f52511" />
+<img width="250" height="370" alt="LOGIN" src="https://github.com/user-attachments/assets/6c95a12b-36af-4a6e-a27c-bd56b9f52511" />
 
 Fitur Register
-<img width="250" height="350" alt="REGISTER" src="https://github.com/user-attachments/assets/906ee85c-5746-46b3-add1-d568a567b8b0" />
+<img width="250" height="370" alt="REGISTER" src="https://github.com/user-attachments/assets/906ee85c-5746-46b3-add1-d568a567b8b0" />
 
 Fitur Daftar Seminar
-<img width="250" height="350" alt="SEMINAR" src="https://github.com/user-attachments/assets/5a98d44c-9e41-4e27-ac79-e6dcda078ba8" />
+<img width="250" height="370" alt="SEMINAR" src="https://github.com/user-attachments/assets/5a98d44c-9e41-4e27-ac79-e6dcda078ba8" />
 
 
 
