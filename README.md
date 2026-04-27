@@ -22,7 +22,7 @@ Aplikasi Pendaftaran Seminar Mahasiswa berbasis Android yang dibangun menggunaka
 
 ## 🔑 Akun Demo (Hardcoded)
 - **Username**: `revana`
-- **Password**: `revana12`
+- **Password**: `revana123`
 
 ## 🎥 Video Penjelasan (Link)
 https://youtu.be/8tvfLKPaTf0?si=MXNA8DP5ZaxB7Fa1
